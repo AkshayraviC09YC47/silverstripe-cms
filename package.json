@@ -43,7 +43,7 @@
     "jquery": "^3.5.0",
     "merge": "^2.1.1",
     "popper.js": "^1.14.4",
-    "prop-types": "^15.6.2",
+    "prop-types": "^15.8.1",
     "react": "^16.6.1",
     "react-apollo": "^2.1.11",
     "react-dom": "^16.6.1",
